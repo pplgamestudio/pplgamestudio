@@ -1,0 +1,8 @@
+{
+  "name": "PPL Game Studio – Ремонт консолей та джойстиків",
+  "description": "PPL Computer Entertainment Systems: професійний ремонт та обслуговування PlayStation, Xbox, геймпадів і комп'ютерної техніки. Від гравця до гравців.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
